@@ -1,2 +1,3 @@
 # ldjam_project
-Our game project thing for Ludum Dare's Game Jam
+This is a simple solar system simulator created as
+as a project for the Ludum Dare Game Jam.
